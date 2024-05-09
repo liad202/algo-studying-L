@@ -6,7 +6,7 @@ namespace algo_studying_L
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Israel!");
         }
     }
 }
