@@ -1,4 +1,5 @@
 ﻿using System;
+using algo_studying_L.common;
 
 namespace algo_studying_L
 {
@@ -6,7 +7,8 @@ namespace algo_studying_L
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Israel!");
+            ProcessManager.RunProcess();
+
         }
     }
 }

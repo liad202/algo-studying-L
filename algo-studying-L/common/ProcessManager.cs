@@ -8,7 +8,8 @@ namespace algo_studying_L.common
     {
         public static void RunProcess()
         {
-            Console.WriteLine("Choose one option:1 - World | 2 - Israel | 0 - Exit");
+            Console.WriteLine("Choose one option:\n 1 - World | 2 - Israel | 0 - Exit");
+
         }
     }
 }

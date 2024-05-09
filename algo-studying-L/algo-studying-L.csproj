@@ -6,4 +6,8 @@
     <RootNamespace>algo_studying_L</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="D:\Lproject\linkGit\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
 </Project>
